@@ -144,13 +144,53 @@ a {
 	text-align: center;
 }
 
-#corpoStagioni h4{
+#corpoStagioni h4 {
 	text-align: center;
 	font-weight: lighter;
 	margin-top: 35px;
 }
 
-#tabella{
-	align-content: center;
+#tabella {
+	display: flex;
+	justify-content: center;
 }
 
+#tabella table {
+	border-collapse: collapse;
+}
+
+#tabella th {
+	background-color: darkred;
+	color: white;
+	border: 1px solid black;
+}
+
+#tabella td {
+	text-align: center;
+	border: 1px solid black;
+}
+
+#tabella tfoot {
+	background-color: darkred;
+	color: white;
+	border: 1px solid black;
+}
+
+#corpoCurio {
+	margin-left: 15%;
+	display: bloc
+}
+
+#corpoCurio h2 {
+	text-align: center;
+}
+
+#corpocurio p {
+	float:left;
+}
+
+#corpoCurio img{
+	float: right;
+	width: 300px;
+	margin:0px 30px 100px 100px;
+}
