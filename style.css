@@ -1,0 +1,156 @@
+html,
+body,
+a {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+#class {
+	height: 12em;
+}
+
+#logo {
+	max-height: 12em;
+	float: left;
+}
+
+.logo {
+	max-height: 12em;
+	display: inline-block;
+}
+
+#titoli {
+	margin-top: 0px;
+}
+
+.titolo1 {
+	text-align: center;
+	font-weight: bold;
+	color: darkred;
+	font-size: 3.5em;
+	margin-bottom: 0;
+}
+
+.titolo2 {
+	text-align: center;
+	font-style: oblique;
+}
+
+#location {
+	margin-top: 10px;
+	background-color: darkred;
+	height: 2em;
+}
+
+.paragrafo {
+	font-weight: bold;
+	color: white;
+}
+
+#menu ul {
+	list-style: none;
+	width: 15%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+}
+
+#menu li a {
+	display: block;
+	padding: 8px 16px;
+	color: darkred;
+}
+
+#bloccoDx {
+	margin-left: 15%;
+	display: block;
+}
+
+#scritta {
+	text-align: center;
+	font-weight: bold;
+}
+
+.titolo3 {
+	text-align: center;
+	font-weight: bold;
+}
+
+#imgCenter {
+	text-align: justify;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 400px;
+	max-width: 600px;
+}
+
+#corpo {
+	margin-left: 15%;
+	display: block;
+}
+
+#corpo h2 {
+	text-align: center;
+}
+
+#corpo p {
+	text-align: center;
+	text-align: justify;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+#corpo img {
+	display: block;
+	margin: auto;
+	width: 40%;
+}
+
+#corpoProta {
+	margin-left: 15%;
+	display: block
+}
+
+#corpoProta h2 {
+	text-align: center;
+}
+
+#corpoProta h4 {
+	margin-left: 15px;
+	font-size: bold;
+}
+
+#corpoProta p {
+	text-align: center;
+	text-align: justify;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+#corpoStagioni {
+	margin-left: 15%;
+	display: bloc
+}
+
+#corpoStagioni h2 {
+	text-align: center;
+}
+
+#corpoStagioni h4{
+	text-align: center;
+	font-weight: lighter;
+	margin-top: 35px;
+}
+
+#tabella{
+	align-content: center;
+}
+
